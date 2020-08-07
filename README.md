@@ -12,7 +12,7 @@ controller works but can start to get pretty complicated. It is possible for
 a single controller action to render data from multiple models on our Rails
 API. It is also possible to specify what we want and don't want to render.
 
-The complication comes when we start to scale. More models, more data, more
+Thsse complication comes when we start to scale. More models, more data, more
 pieces to customize until it becomes unmanageable. In this code-along, we're going
 to look at building our own solution to this problem.
 
