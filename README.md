@@ -1,4 +1,4 @@
-# Extracting a Service Class
+## Extracting a Service Class
 
 ## Learning Goals
 
